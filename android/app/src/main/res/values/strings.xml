@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Swastik Chats</string>
+    <string name="title_activity_main">Swastik Chats</string>
+    <string name="package_name">com.swastikchats.app</string>
+    <string name="custom_url_scheme">com.swastikchats.app</string>
+</resources>
